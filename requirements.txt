@@ -1,0 +1,11 @@
+streamlit
+librosa
+numpy
+scikit-learn
+keras
+tensorflow
+matplotlib
+soundfile
+python_speech_features
+noisereduce
+tqdm
