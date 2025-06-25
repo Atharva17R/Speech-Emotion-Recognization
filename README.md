@@ -60,5 +60,5 @@ This project implements a deep learning-based Speech Emotion Recognition (SER) s
 | **Weighted Avg** | 0.83  | 0.81   | 0.81     | 491     |
 
 
-![Confusion Matrix](download (1).png)
+![Confusion Matrix](https://github.com/Atharva17R/Speech-Emotion-Recognization/blob/main/download%20(1).png)
  
